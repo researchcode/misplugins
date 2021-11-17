@@ -1,0 +1,1 @@
+!function(){"use strict";tinymce.PluginManager.add("miplugin",function(n,t){n.ui.registry.addButton("miplugin",{text:"miplugin button",onAction:function(){n.setContent("<h2>Hola Mundo</h2>")}})})}();
